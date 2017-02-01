@@ -1,0 +1,1445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nikkon v1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-12-20 08:55+0200\n"
+"Last-Translator: admin\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ nikkon
+#: 404.php:20 customizer/customizer-options.php:462
+msgid "Oops! <span>404</span>"
+msgstr "Ошибка <span>404</span>"
+
+# @ nikkon
+#: 404.php:25 customizer/customizer-options.php:470
+msgid "It looks like that page does not exist. <br />Return home or try a search"
+msgstr "Похоже, такой страницы не существует. Потерялись - воспользуйтесь поиском."
+
+# @ nikkon
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий на &ldquo;%s&rdquo;"
+msgstr[1] "Комментариев: %1$s на &ldquo;%2$s&rdquo;"
+msgstr[2] ""
+
+# @ nikkon
+#: comments.php:37 comments.php:58
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ nikkon
+#: comments.php:40 comments.php:61
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+# @ nikkon
+#: comments.php:41 comments.php:62
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ nikkon
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr "Все"
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr "Кириллица расширенная"
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:38
+msgid "Layout Options"
+msgstr "Настройки макета"
+
+# @ nikkon
+#: customizer/customizer-options.php:44
+msgid "Boxed Layout"
+msgstr "Макет с фиксированной шириной"
+
+# @ nikkon
+#: customizer/customizer-options.php:45
+msgid "Full Width Layout"
+msgstr "Макет по всей ширине"
+
+# @ nikkon
+#: customizer/customizer-options.php:49
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+# @ nikkon
+#: customizer/customizer-options.php:60
+msgid "<b>Premium Extra Features:</b><br />- Make Shop, Archive & Single pages full width<br />- Enable Blocks layout on any/all pages"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:69
+msgid "Header Options"
+msgstr "Настройки шапки"
+
+# @ nikkon
+#: customizer/customizer-options.php:75
+msgid "Remove Top Bar"
+msgstr "Удалить верхнюю панель"
+
+# @ nikkon
+#: customizer/customizer-options.php:81
+msgid "Header Centered"
+msgstr "Заголовок по центру"
+
+# @ nikkon
+#: customizer/customizer-options.php:82
+msgid "Header Standard"
+msgstr "Стандартный заголовок"
+
+# @ nikkon
+#: customizer/customizer-options.php:86
+msgid "Header Layout"
+msgstr "Схема шапки сайта"
+
+# @ nikkon
+#: customizer/customizer-options.php:94
+msgid "Menu Button Text"
+msgstr "Текст кнопки меню"
+
+# @ nikkon
+#: customizer/customizer-options.php:98
+msgid "This is the text for the mobile menu button"
+msgstr "Это текст для кнопки мобильного меню"
+
+# @ nikkon
+#: customizer/customizer-options.php:102
+msgid "Remove Search"
+msgstr "Удалить поиск"
+
+# @ nikkon
+#: customizer/customizer-options.php:109
+msgid "Remove Phone Number"
+msgstr "Удалить номер телефона"
+
+# @ nikkon
+#: customizer/customizer-options.php:118
+msgid "<b>Premium Extra Features:</b><br />- Extra \"Split Nav\" header layout<br />- Remove WooCommerce cart"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:126
+msgid "Slider Options"
+msgstr "Настройки слайдера"
+
+# @ nikkon
+#: customizer/customizer-options.php:131
+msgid "Default Slider"
+msgstr "Стандартный слайдер"
+
+# @ nikkon
+#: customizer/customizer-options.php:132
+msgid "Meta Slider"
+msgstr "Мета слайдер"
+
+# @ nikkon
+#: customizer/customizer-options.php:133 customizer/customizer-options.php:405
+msgid "None"
+msgstr "Ничего"
+
+# @ nikkon
+#: customizer/customizer-options.php:137
+msgid "Choose a Slider"
+msgstr "Выбрать слайдер"
+
+# @ nikkon
+#: customizer/customizer-options.php:145
+msgid "Slider Categories"
+msgstr "Категории слайдера"
+
+# @ nikkon
+#: customizer/customizer-options.php:148
+msgid "Enter the ID's of the post categories you want to display in the slider. Eg: \"13,17,19\" (no spaces and only comma's)<br /><a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"><b>Follow instructions here</b></a>"
+msgstr "Введите ID категорий постов, которые вы хотите отобразить в слайдере. Например: \"13,17,19\" (без пробелов, через запятую)<br /><a href=\"http://kairaweb.com/support/topic/setting-up-the-default-slider/\" target=\"_blank\"><b>Дальнейшие инструкции здесь</b></a>"
+
+# @ nikkon
+#: customizer/customizer-options.php:152
+msgid "Slider Shortcode"
+msgstr "Шорткод слайдера"
+
+# @ nikkon
+#: customizer/customizer-options.php:155
+msgid "Enter the shortcode given by the slider"
+msgstr "Введите шорткод для слайдера"
+
+# @ nikkon
+#: customizer/customizer-options.php:159
+msgid "Link Slide to post"
+msgstr "Ссылка слайда на пост"
+
+# @ nikkon
+#: customizer/customizer-options.php:166
+msgid "Remove Slider Title"
+msgstr "Удалить заголовок слайдера"
+
+# @ nikkon
+#: customizer/customizer-options.php:175
+msgid "<b>Premium Extra Features:</b><br />- Set slider to full width<br />- Select slider size (small / medium / large)<br />- Change slider scroll effect<br />- Remove slider Pagination<br />- Stop slider auto-scroll"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:184
+msgid "Colors"
+msgstr "Цвета"
+
+# @ nikkon
+#: customizer/customizer-options.php:190
+msgid "Site Boxed Background Color"
+msgstr "Цвет фона сайта"
+
+# @ nikkon
+#: customizer/customizer-options.php:198
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+# @ nikkon
+#: customizer/customizer-options.php:206
+msgid "Secondary Color"
+msgstr "Вторичный цвет"
+
+# @ nikkon
+#: customizer/customizer-options.php:215
+msgid "<b>Premium Extra Features:</b><br />- Premium comes with advanced color settings allowing you to change the colors of the header, top bar, navigation and footers etc"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:226
+msgid "Font Options"
+msgstr "Настройка шрифта"
+
+# @ nikkon
+#: customizer/customizer-options.php:232
+msgid "Body Font"
+msgstr "Шрифт главной части сайта"
+
+# @ nikkon
+#: customizer/customizer-options.php:240
+msgid "Body Font Color"
+msgstr "Цвет основного шрифта"
+
+# @ nikkon
+#: customizer/customizer-options.php:248
+msgid "Heading Font"
+msgstr "Шрифт Заголовка/Хедера"
+
+# @ nikkon
+#: customizer/customizer-options.php:256
+msgid "Heading Font Color"
+msgstr "Цвет шрифта заголовка"
+
+# @ nikkon
+#: customizer/customizer-options.php:268
+msgid "Blog Options"
+msgstr "Настройки блога"
+
+# @ nikkon
+#: customizer/customizer-options.php:273
+msgid "Left Layout"
+msgstr "Структура слева"
+
+# @ nikkon
+#: customizer/customizer-options.php:274
+msgid "Right Layout"
+msgstr "Структура справа"
+
+# @ nikkon
+#: customizer/customizer-options.php:275
+msgid "Alternate Layout"
+msgstr "Альтернативный макет"
+
+# @ nikkon
+#: customizer/customizer-options.php:276
+msgid "Top Layout"
+msgstr "Верхняя структура"
+
+# @ nikkon
+#: customizer/customizer-options.php:277
+msgid "Blocks Layout"
+msgstr "Макеты блоков"
+
+# @ nikkon
+#: customizer/customizer-options.php:281
+msgid "Blog Posts Layout"
+msgstr "Макет записей"
+
+# @ nikkon
+#: customizer/customizer-options.php:289
+msgid "Blog Page Title"
+msgstr "Заголовок страницы блога"
+
+# @ nikkon
+#: customizer/customizer-options.php:296
+msgid "Exclude Blog Categories"
+msgstr "Исключить категории блогов"
+
+# @ nikkon
+#: customizer/customizer-options.php:299
+msgid "Enter the ID's of the post categories you'd like to EXCLUDE from the Blog, enter only the ID's with a minus sign (-) before them, separated by a comma (,)<br />Eg: \"-13, -17, -19\"<br />If you enter the ID's without the minus then it'll show ONLY posts in those categories."
+msgstr "Введите ID категорий постов, которые вы хотите ИСКЛЮЧИТЬ из блога. Вводите ID только со знаком (-) перед ним, разделяйте айдишники запятыми(,)<br/> Например: \"-13, -17, -19\"<br/> Если вы введете айдишники без знака (-), отобразятся посты ТОЛЬКО из этой категории."
+
+# @ nikkon
+#: customizer/customizer-options.php:303
+msgid "Make Blog Full Width"
+msgstr "Сделать блог на всю ширину"
+
+# @ nikkon
+#: customizer/customizer-options.php:311
+msgid "Enable blocks on Archive pages"
+msgstr "Включение блоков на страницах архива"
+
+# @ nikkon
+#: customizer/customizer-options.php:320
+msgid "<b>Premium Extra Features:</b><br />- Set archives & search pages to full width<br />- Set blog single pages to full width"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:328
+msgid "Blocks Layout Options"
+msgstr "Параметры блоков макета"
+
+# @ nikkon
+#: customizer/customizer-options.php:333
+msgid "Square Blocks"
+msgstr "Квадратные блоки"
+
+# @ nikkon
+#: customizer/customizer-options.php:334
+msgid "Image Shape Blocks"
+msgstr "Форма изображения блоков"
+
+# @ nikkon
+#: customizer/customizer-options.php:338
+msgid "Blog Post Shape"
+msgstr "Форма постов блога"
+
+# @ nikkon
+#: customizer/customizer-options.php:345
+msgid "Image/Block Style"
+msgstr "Изображение/блок стиль"
+
+# @ nikkon
+#: customizer/customizer-options.php:346
+msgid "Post/Block Style"
+msgstr "Запись/блок стиль"
+
+# @ nikkon
+#: customizer/customizer-options.php:350
+msgid "Blocks Styling"
+msgstr "Стиль блоков"
+
+# @ nikkon
+#: customizer/customizer-options.php:358
+msgid "Remove Meta info"
+msgstr "Удаление Мета информации"
+
+# @ nikkon
+#: customizer/customizer-options.php:365
+msgid "Remove Content"
+msgstr "Удалить содержимое"
+
+# @ nikkon
+#: customizer/customizer-options.php:372
+msgid "Remove Tags & Categories"
+msgstr "Удалить теги & категории"
+
+# @ nikkon
+#: customizer/customizer-options.php:379
+msgid "Images Grey / Color on hover"
+msgstr "Фото серое / цветное при наведении"
+
+# @ nikkon
+#: customizer/customizer-options.php:382
+msgid "Select this if you'd like the block images to show in greyscale and re-color on mouse hover"
+msgstr "Выберите, если вы хотите блокировать изображения для отображения в greyscale и повторно цвета при наведении указателя мыши"
+
+# @ nikkon
+#: customizer/customizer-options.php:389
+msgid "<b>Premium Extra Features:</b><br />- Select Blog layout columns"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:398
+msgid "Footer Layout Options"
+msgstr "Структура футера"
+
+# @ nikkon
+#: customizer/customizer-options.php:403
+msgid "Standard Layout"
+msgstr "Стандартный макет"
+
+# @ nikkon
+#: customizer/customizer-options.php:404
+msgid "Social Layout"
+msgstr "Настройка социальных сетей"
+
+# @ nikkon
+#: customizer/customizer-options.php:409
+msgid "Footer Layout"
+msgstr "Структура футера"
+
+# @ nikkon
+#: customizer/customizer-options.php:418
+msgid "Remove the Bottom Bar"
+msgstr "Удалить нижнюю панель"
+
+# @ nikkon
+#: customizer/customizer-options.php:427
+msgid "<b>Premium Extra Features:</b><br />- Premium has an advanced widget footer layout where you can select the columns and manually adjust them as you want"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:436
+msgid "Website Text"
+msgstr "Текст сайта"
+
+# @ nikkon
+#: customizer/customizer-options.php:442
+msgid "Social Footer Address"
+msgstr "Адрес в футере"
+
+# @ nikkon
+#: customizer/customizer-options.php:445
+#: templates/footers/footer-social.php:28
+msgid "Cape Town, South Africa"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:446
+msgid "This is the address in the social footer"
+msgstr "Этот адрес будет использован при отображении контактной информации в заголовке и нижней части страницы."
+
+# @ nikkon
+#: customizer/customizer-options.php:450
+msgid "Header Phone Number"
+msgstr "Телефон в шапке"
+
+# @ nikkon
+#: customizer/customizer-options.php:453
+#: templates/header/header-layout-one.php:29
+#: templates/header/header-layout-three.php:29
+msgid "Call Us: +2782 444 YEAH"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:454
+msgid "This is the phone number in the header top bar"
+msgstr "Это номер телефона в верхней панели заголовка"
+
+# @ nikkon
+#: customizer/customizer-options.php:459
+msgid "404 Error Page Heading"
+msgstr "Заголовок 404-й страницы"
+
+# @ nikkon
+#: customizer/customizer-options.php:463
+msgid "Enter the heading for the 404 Error page"
+msgstr "Введите заголовок для страницы ошибки 404"
+
+# @ nikkon
+#: customizer/customizer-options.php:467
+msgid "Error 404 Message"
+msgstr "Сообщение об ошибке 404"
+
+# @ nikkon
+#: customizer/customizer-options.php:471
+msgid "Enter the default text on the 404 error page (Page not found)"
+msgstr "Введите текст по умолчанию на странице 404 ошибки (страница не найдена)"
+
+# @ nikkon
+#: customizer/customizer-options.php:475
+msgid "No Search Results"
+msgstr "Ничего не найдено"
+
+# @ nikkon
+#: customizer/customizer-options.php:478
+#: templates/contents/content-none.php:24
+#: templates/contents/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, по вашему запросу ничего не найдено. Попробуйте использовать другие ключевые слова."
+
+# @ nikkon
+#: customizer/customizer-options.php:479
+msgid "Enter the default text for when no search results are found"
+msgstr "Введите текст по умолчанию, если не будут найдены никакие результаты поиска"
+
+# @ nikkon
+#: customizer/customizer-options.php:485
+msgid "<b>Premium Extra Features:</b><br />- Change attribution/copyright text to your own"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:494
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+# @ nikkon
+#: customizer/customizer-options.php:500
+msgid "Email Address"
+msgstr "Email адрес"
+
+# @ nikkon
+#: customizer/customizer-options.php:506
+msgid "Skype Name"
+msgstr "Скайп"
+
+# @ nikkon
+#: customizer/customizer-options.php:512
+msgid "LinkedIn"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:518
+msgid "Tumblr"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:524
+msgid "Flickr"
+msgstr ""
+
+# @ nikkon
+#: customizer/customizer-options.php:532
+msgid "<b>Premium Extra Features:</b><br />- Premium comes with a bunch of more social profiles to link to"
+msgstr ""
+
+# @ nikkon
+#: functions.php:76
+msgid "Top Bar Menu"
+msgstr "Верхнее меню"
+
+# @ nikkon
+#: functions.php:77
+msgid "Header Menu"
+msgstr "Меню в шапке"
+
+# @ nikkon
+#: functions.php:78
+msgid "Footer Bar Menu"
+msgstr "Меню в подвале"
+
+# @ nikkon
+#: functions.php:123
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+# @ nikkon
+#: functions.php:133
+msgid "Nikkon Footer Standard"
+msgstr "Стандартный макет Nikkon"
+
+# @ nikkon
+#: functions.php:135
+msgid "The footer will divide into however many widgets are placed here."
+msgstr "Нижний колонтитул будет разделен, однако многие виджеты могут быть размещены здесь."
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+# @ nikkon
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ nikkon
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:386
+#: includes/inc/class-tgm-plugin-activation.php:827
+#: includes/inc/class-tgm-plugin-activation.php:2533
+#: includes/inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:387
+#: includes/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: dashboard link.
+#: includes/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:934
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:1121
+#: includes/inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ nikkon
+#. translators: %s: version number
+#: includes/inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+# @ nikkon
+#. translators: 1: install status, 2: update status
+#: includes/inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ nikkon
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+# @ nikkon
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+# @ nikkon
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+# @ nikkon
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ nikkon
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/inc/class-tgm-plugin-activation.php:2952
+#: includes/inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name, 2: error message.
+#: includes/inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ nikkon
+#: includes/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+# @ nikkon
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано: %s"
+
+# @ nikkon
+#: includes/inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "Автор: %s"
+
+# @ nikkon
+#. translators: used between list items, there is a space after the comma
+#: includes/inc/template-tags.php:50 includes/inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+# @ nikkon
+#: includes/inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Категория: %1$s"
+
+# @ nikkon
+#: includes/inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+# @ nikkon
+#: includes/inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ nikkon
+#: includes/inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+# @ nikkon
+#: includes/inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+# @ nikkon
+#: includes/inc/woocommerce-header-inc.php:9
+#: templates/header/header-layout-one.php:75
+#: templates/header/header-layout-three.php:72
+msgid "View your shopping cart"
+msgstr "Посмотреть корзину покупок"
+
+# @ nikkon
+#: includes/inc/woocommerce-header-inc.php:11
+#: templates/header/header-layout-one.php:77
+#: templates/header/header-layout-three.php:74
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ nikkon
+#: includes/nikkon-pro/class-customize.php:76
+msgid "Nikkon"
+msgstr ""
+
+# @ nikkon
+#: includes/nikkon-pro/class-customize.php:77 upgrade/tpl/upgrade-page.php:37
+#: upgrade/tpl/upgrade-page.php:43
+msgid "Upgrade to Premium"
+msgstr ""
+
+# @ nikkon
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ nikkon
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &amp; hit enter&hellip;"
+msgstr "Поиск &hellip;"
+
+# @ nikkon
+#: searchform.php:11
+msgctxt "submit button"
+msgid "&nbsp;"
+msgstr ""
+
+# @ nikkon
+#: templates/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ nikkon
+#: templates/contents/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните сейчас</a>."
+
+# @ nikkon
+#: templates/contents/content-page.php:15
+#: templates/contents/content-single.php:20 templates/contents/content.php:156
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ nikkon
+#. translators: %s: Name of current post
+#: templates/contents/content.php:99 templates/contents/content.php:148
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ nikkon
+#: templates/footers/footer-none.php:7
+#: templates/footers/footer-standard.php:22
+#, php-format
+msgid "<div class=\"site-container\"><div class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s"
+msgstr ""
+
+# @ nikkon
+#: templates/footers/footer-social.php:8 templates/social-links.php:3
+msgid "Send Us an Email"
+msgstr "Отправить нам Email"
+
+# @ nikkon
+#: templates/footers/footer-social.php:12 templates/social-links.php:7
+msgid "Contact Us on Skype"
+msgstr "Связаться с нами в скайпе"
+
+# @ nikkon
+#: templates/footers/footer-social.php:16 templates/social-links.php:11
+msgid "Find Us on LinkedIn"
+msgstr ""
+
+# @ nikkon
+#: templates/footers/footer-social.php:20 templates/social-links.php:15
+msgid "Find Us on Tumblr"
+msgstr ""
+
+# @ nikkon
+#: templates/footers/footer-social.php:24 templates/social-links.php:19
+msgid "Find Us on Flickr"
+msgstr ""
+
+# @ nikkon
+#: templates/footers/footer-social.php:30
+#, php-format
+msgid "</div><div class=\"site-footer-social-copy\">Theme: %1$s by %2$s"
+msgstr ""
+
+# @ nikkon
+#: templates/footers/footer-standard.php:11
+msgid "Add your own widgets here"
+msgstr "Добавьте сюда виджеты"
+
+# @ nikkon
+#: templates/header/header-layout-one.php:66
+#: templates/header/header-layout-three.php:63
+msgid "menu"
+msgstr "меню"
+
+# @ nikkon
+#: templates/slider/homepage-slider.php:98
+msgid "Highly Customizable"
+msgstr "Расширенные настройки"
+
+# @ nikkon
+#: templates/slider/homepage-slider.php:100
+msgid "Build a professional website without any coding knowledge"
+msgstr "Создайте профессиональный сайт без знания кода"
+
+# @ nikkon
+#: templates/titlebar.php:7
+msgid "Blog"
+msgstr "Блог"
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:4 upgrade/upgrade.php:13
+msgid "About Nikkon"
+msgstr "О Nikkon"
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:13
+msgid "<em>Support</em><span>Nikkon Documentation </span>"
+msgstr "<em>Поддержка</em> <span>Nikkon документация</span>"
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:18
+msgid "We support all our themes, offering one on one email support to help you build the website you want"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:19
+msgid "While we do support our both free and premium themes... <strong>Premium themes get prioritized support</strong>"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:24
+msgid "<span>Nikkon Premium </span><em>$25</em>"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:29
+msgid "<a href=\"https://kairaweb.com/support/install-the-premium-theme/\" target=\"_blank\">Get help here</a> on purchasing and installing Nikkon Premium"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:40
+msgid "If you've enjoyed using our Nikkon theme to build your website, then you should love the premium version which comes with a bunch of <a href='https://kairaweb.com/theme/nikkon/#premium-features' class='upgrade-btn' target='_blank'>extra premium features</a> for a low cost of <strong>$25</strong>.<br /><br />With Nikkon premium we offer continued updates and you'll get prioritized support to help you build the website you want."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:48 upgrade/tpl/upgrade-page.php:54
+msgid "Continued Updates"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:51
+msgid "Once you upgrade to Nikkon Premium, you'll then support and move over to our premium updates system which will ensure nikkon works with all future versions of WordPress that are released."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:59 upgrade/tpl/upgrade-page.php:65
+msgid "Get Premium Support"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:62
+msgid "Upgrading to Nikkon Premium will also give you prioritized support, ensuring we get to your queries first.<br /><br />We have a growing <a href='https://kairaweb.com/documentation/' target='_blank'>support forum</a> on our website as well as <a href='https://kairaweb.com/support-contact/' target='_blank'>email support</a> to sort out any queries you may have."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:76
+msgid "We aim to keep our prices low, all our themes are under <strong>$30</strong>, while still offering you great WordPress themes."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:78
+msgid "Upgrading will support us and enable us to keep building WordPress themes."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:80
+#, php-format
+msgid "If you like our themes and/or found our support helpful, please let us know by <a href='%s' target='_blank'>giving us a review</a>."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:84
+msgid "Theme Ratings"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:96
+msgid "SpySunny"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:99
+msgid "Very user-friendly theme with excellent support."
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:105
+msgid "Fitoni"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:108
+msgid "What a great theme!! been using it for a long time, very clean code, easy to use, easy to customize, really cant say any wrong about it!!!<br /><br />Give it a try and you will not be dissapointed! this theme is THE BEST!!"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:114
+msgid "NayWordPress"
+msgstr ""
+
+# @ nikkon
+#: upgrade/tpl/upgrade-page.php:117
+msgid "I've purchased the Premium Theme for my Online Store. Very awesome! Support assistance 100&#37; available, easy to customize. I recommend it to everyone who want to build a Store Online. Really practicable for E-commerce."
+msgstr ""
